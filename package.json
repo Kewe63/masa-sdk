@@ -1,6 +1,6 @@
 {
   "name": "@masa-finance/masa-sdk",
-  "version": "3.18.1",
+  "version": "3.19.0",
   "description": "Brand new Masa SDK",
   "main": "./dist/src/index.js",
   "typings": "./dist/src/index.d.ts",
@@ -49,7 +49,9 @@
     "axios": "^1.6.7",
     "ethers": "~5.7.2",
     "grapheme-splitter": "^1.0.4",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    // New dependency added
+    "yeni-paket": "^1.0.0"
   },
   "devDependencies": {
     "@types/chai": "^4.3.11",
